@@ -2,7 +2,7 @@
 
 ## REMOTE DISPLAY AND CONTROL (SSH + VNC)
 
-#### 1. Flash The OS Raspbian Lite
+#### 1. Flash The OS Raspbian With Desktop
 * Download Raspbian Buster With Desktop >> https://www.raspberrypi.org/downloads/raspbian/
 * Download etcher for flashing >> Etcher: https://www.balena.io/etcher/ 
 * Flash the OS to the SD card
