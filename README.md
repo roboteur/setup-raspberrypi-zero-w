@@ -36,3 +36,6 @@
 
 #### Desktop Login Doesn't Work
 * Accepts user and password but doesn't push through with the boot >> Maker sure you have flashed the "desktop" version.
+
+#### It worked the first time, but now it didn't.
+* Your Pi Zero's IP address could have been changed for some reasons. Check again if you have the right IP address with VNC settings.
